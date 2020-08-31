@@ -176,3 +176,85 @@ footer a i {
     width: 25%;
   }
 }
+
+.lessons {
+  margin: 2rem auto;
+  width: 100%;
+  background-color: rgba(159, 216, 229, 0.3);
+  text-align: center;
+}
+
+.lessons form {
+  display: flex;
+  flex-direction: column;
+  font-family: inherit;
+  justify-content: center;
+  align-content: center;
+  margin-top: 3rem;
+  font-weight: bold;
+}
+.lessons input {
+  width: 60%;
+  height: 2rem;
+  align-self: center;
+  margin: 0.5rem;
+  border-radius: 5px;
+  margin-bottom: 1rem;
+}
+.lessons textarea {
+  width: 60%;
+  align-self: center;
+  margin: 0.5rem;
+  border-radius: 5px;
+}
+.lessons button {
+  font-weight: bold;
+  width: 60%;
+  height: 2rem;
+  font-family: inherit;
+  align-self: center;
+  margin: 0.5rem;
+  border-radius: 5px;
+  background: #ffcf78;
+}
+
+.conversation {
+  margin: 2rem auto;
+  width: 70%;
+  background-color: rgba(255, 207, 120, 0.3);
+  text-align: center;
+}
+
+.conversation form {
+  display: flex;
+  flex-direction: column;
+  font-family: inherit;
+  justify-content: center;
+  align-content: center;
+  margin-top: 3rem;
+  font-weight: bold;
+}
+.conversation input {
+  width: 60%;
+  height: 2rem;
+  align-self: center;
+  margin: 0.5rem;
+  border-radius: 5px;
+  margin-bottom: 1rem;
+}
+.conversation textarea {
+  width: 60%;
+  align-self: center;
+  margin: 0.5rem;
+  border-radius: 5px;
+}
+.conversation button {
+  font-weight: bold;
+  width: 60%;
+  height: 2rem;
+  font-family: inherit;
+  align-self: center;
+  margin: 0.5rem;
+  border-radius: 5px;
+  background: #9fd8e5;
+}
